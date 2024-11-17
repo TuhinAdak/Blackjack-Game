@@ -35,6 +35,7 @@ game.go: Game logic and flow
 ## Running the Game
 
 To run the game, navigate to the project directory and execute the following command:
+ ```bash
   go run main.go player.go game.go
 
 
