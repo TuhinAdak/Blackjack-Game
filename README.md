@@ -13,7 +13,9 @@ The game allows a player to compete against a dealer, following the standard rul
 
 ## Project Structure
 main.go: Entry point of the game
+
 player.go: Player management and card handling 
+
 game.go: Game logic and flow
 
 
