@@ -28,7 +28,7 @@ game.go: Game logic and flow
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/blackjack.git
+   git clone https://github.com/TuhinAdak/Blackjack-Game.git
    cd blackjack
 2. Ensure you have Go installed on your machine. You can download it from the official Go website.
 
